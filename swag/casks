@@ -1,11 +1,12 @@
+AppCleaner
 adoptopenjdk
-#appcleaner
 atom
+blue-jeans
+blue-jeans-browser-plugin
 brave-browser
 cyberduck
 docker
 eclipse-ide
-#evernote
 firefox
 gdisk
 gimp
@@ -13,7 +14,7 @@ google-chrome
 gpg-suite
 iterm2
 keybase
-#lastpass
+microsoft-teams
 mysqlworkbench
 owasp-zap
 owncloud
@@ -24,10 +25,11 @@ signal
 skitch
 skype
 sourcetree
-#the-unarchiver
 vagrant
 virtualbox
 vlc
 vmware-fusion
 vmware-horizon-client
+webex-meetings
 xquartz
+zoomus
